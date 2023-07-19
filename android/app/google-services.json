@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "955661553684",
+    "firebase_url": "https://firstday-e5e57-default-rtdb.firebaseio.com",
+    "project_id": "firstday-e5e57",
+    "storage_bucket": "firstday-e5e57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955661553684:android:146f34ae979ca7ba3c1701",
+        "android_client_info": {
+          "package_name": "com.example.firstday"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955661553684-ldl95ghbf3pq84sa9qqk5ffi1ik7b0si.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4kzmHy_LEfNfdvrEpSPeV7_rvFTdLieM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955661553684-ldl95ghbf3pq84sa9qqk5ffi1ik7b0si.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "955661553684-iqmrv77jksm14o0hkkfmbq20i9m1esuf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firstday"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
